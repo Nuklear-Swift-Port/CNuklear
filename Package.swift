@@ -4,5 +4,5 @@
 import PackageDescription
 
 let package = Package(
-    name: "CNuklear",
+    name: "CNuklear"
 )
